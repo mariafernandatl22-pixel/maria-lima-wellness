@@ -34,7 +34,7 @@ const Hero = () => {
 
           {/* Subtitle */}
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Por Maria Fernanda Lima — Nutricionista clínica e esportiva. <span className="font-semibold text-foreground">Nutricionista Maria Fernanda
+            Por Maria Fernanda  Lima — Nutricionista clínica e esportiva          <span className="font-semibold text-foreground">Nutricionista Maria Fernanda
  Lima</span> — 
             result-driven nutrition for real people.
           </p>
