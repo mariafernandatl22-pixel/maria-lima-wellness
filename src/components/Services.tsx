@@ -1,50 +1,52 @@
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Check, Sparkles, Zap, Target, Trophy } from "lucide-react";
+import { Check, Sparkles, Zap, Trophy, Activity } from "lucide-react";
 
 const services = [
   {
     icon: Sparkles,
-    title: "Consulta Individual Premium",
-    description: "Atendimento personalizado com avaliação completa e plano nutricional exclusivo.",
+    title: "Consulta Avulsa",
+    description: "Atendimento individualizado para quem busca orientação nutricional pontual.",
     benefits: [
-      "Anamnese detalhada",
-      "Avaliação corporal",
-      "Plano alimentar personalizado",
-      "Material educativo",
+      "Uma consulta completa",
+      "Avaliação antropométrica",
+      "Planejamento alimentar individual",
+      "Sem direito a retorno",
     ],
   },
   {
     icon: Zap,
-    title: "Plano Mensal Completo",
-    description: "Acompanhamento intensivo com ajustes semanais e suporte contínuo.",
+    title: "Consulta Premium",
+    description: "Acompanhamento completo com retorno e suporte contínuo para resultados efetivos.",
     benefits: [
-      "4 consultas mensais",
-      "Ajustes de cardápio",
-      "Suporte via WhatsApp",
-      "Receitas e dicas exclusivas",
-    ],
-  },
-  {
-    icon: Target,
-    title: "Acompanhamento Trimestral",
-    description: "Programa de 3 meses para transformação sustentável e resultados duradouros.",
-    benefits: [
-      "12 consultas trimestrais",
-      "Monitoramento completo",
-      "Educação nutricional",
-      "Acompanhamento de exames",
+      "Consulta + retorno",
+      "Bioimpedância e avaliação antropométrica",
+      "Planejamento alimentar individual",
+      "Escolha de 1 ebook",
+      "Suporte pelo WhatsApp",
     ],
   },
   {
     icon: Trophy,
-    title: "Plano Performance",
-    description: "Nutrição esportiva especializada para corrida e musculação.",
+    title: "Plano Trimestral Performance",
+    description: "Programa de 3 meses para transformação sustentável e resultados duradouros.",
     benefits: [
-      "Estratégia pré/pós treino",
-      "Suplementação adequada",
-      "Periodização nutricional",
-      "Acompanhamento de treinos",
+      "3 consultas trimestrais",
+      "Bioimpedância e avaliação antropométrica",
+      "Planejamento alimentar individual",
+      "Escolha de 2 ebooks",
+      "Suporte pelo WhatsApp",
+    ],
+  },
+  {
+    icon: Activity,
+    title: "Avaliação Corporal",
+    description: "Avaliação completa da composição corporal com tecnologia e precisão.",
+    benefits: [
+      "Bioimpedância completa",
+      "Antropometria detalhada",
+      "Relatório de composição corporal",
+      "Orientações sobre os resultados",
     ],
   },
 ];
