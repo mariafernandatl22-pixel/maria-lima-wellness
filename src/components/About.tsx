@@ -18,15 +18,12 @@ const About = () => {
               
               <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
                 <p>
-                  Olá, sou Maria Fernanda, Prazer! Adotar uma alimentação saudável pode ter uma série de impactos positivos para nossa saúde e, por isso, uma paixão sobre o assunto tomou conta de mim. Sou formada pelo Centro Universitário Presidente Tancredo de Almeida Neves (UNIPTAN) e posso falar sobre o assunto e atender pessoas com propriedade e de forma individualizada. Além do meu bacharelado, possuo duas pós graduações, sendo uma na parte clínica e esportiva e a outra a nutrição no transtorno do espectro autista. Contudo, percebo que minha missão neste mundo vai além! Por meio da nutrição, almejo auxiliar todas as pessoas a experimentarem plenitude, felicidade e saúde. <span className="font-semibold text-foreground">praticidade, 
+                  Olá, sou Maria Fernanda, Prazer! Adotar uma alimentação saudável pode ter uma série de impactos positivos para nossa saúde e, por isso, uma paixão sobre o assunto tomou conta de mim. Sou formada pelo Centro Universitário Presidente Tancredo de Almeida Neves (UNIPTAN) e posso falar sobre o assunto e atender pessoas com propriedade e de forma individualizada. 
+Além do meu bacharelado, possuo duas pós graduações, sendo uma na parte clínica e esportiva e a outra a nutrição no transtorno do espectro autista. Contudo, percebo que minha missão neste mundo vai além! Por meio da nutrição, almejo auxiliar todas as pessoas a experimentarem plenitude, felicidade e saúde.          <span className="font-semibold text-foreground">praticidade, 
                   orientação humanizada e resultados sustentáveis</span>.
                 </p>
                 
-                <p>
-                  Trabalho com emagrecimento, performance esportiva, saúde da mulher 
-                  e alimentação real para o dia a dia. Acredito que nutrição deve ser 
-                  <span className="font-semibold text-foreground"> leve, possível e feita para você</span>.
-                </p>
+                
                 
                 <p>
                   Meu objetivo é te ajudar a alcançar seus resultados sem radicalismo, 
