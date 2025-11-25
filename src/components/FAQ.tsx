@@ -20,7 +20,7 @@ const faqs = [
   },
   {
     question: "Quais são as formas de pagamento?",
-    answer: "Aceito PIX, transferência bancária, cartão de crédito e parcelamento em até 3x sem juros. Entre em contato para mais detalhes sobre valores e condições.",
+    answer: "Aceito PIX, transferência bancária, cartão de crédito e parcelamento em até 3x com juros. Entre em contato para mais detalhes sobre valores e condições.",
   },
   {
     question: "Quanto tempo até ver resultados?",

@@ -85,7 +85,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">E-mail</p>
-                      <p className="text-muted-foreground">contato@mariafernanda.com.br</p>
+                      <p className="text-muted-foreground">nutrimariafernandalima@gmail.com</p>
                     </div>
                   </div>
 
@@ -95,7 +95,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">WhatsApp</p>
-                      <p className="text-muted-foreground">(00) 00000-0000</p>
+                      <p className="text-muted-foreground">(32) 99913-9341</p>
                     </div>
                   </div>
 
@@ -105,7 +105,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-semibold text-foreground">Localização</p>
-                      <p className="text-muted-foreground">Atendimento online e presencial</p>
+                      <p className="text-muted-foreground">Rua Padre Joaquim Carlos, 268, Centro, Resende Costa, MG CEP 36340-000</p>
                     </div>
                   </div>
                 </div>
