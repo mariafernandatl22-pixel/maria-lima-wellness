@@ -111,11 +111,19 @@ const Contact = () => {
                 </div>
               </div>
 
-              {/* Map Placeholder */}
+              {/* Google Maps */}
               <Card className="h-64 bg-pistachio-light rounded-3xl overflow-hidden border-eucalyptus/20">
-                <div className="w-full h-full flex items-center justify-center text-muted-foreground">
-                  <MapPin className="w-12 h-12" />
-                </div>
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3745.8!2d-44.088!3d-20.878!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sRua%20Padre%20Joaquim%20Carlos%2C%20268%20-%20Centro%2C%20Resende%20Costa%20-%20MG%2C%2036340-000!5e0!3m2!1spt-BR!2sbr!4v1699999999999!5m2!1spt-BR!2sbr"
+                  width="100%"
+                  height="100%"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="Localização do consultório"
+                  className="rounded-3xl"
+                />
               </Card>
             </div>
           </div>
