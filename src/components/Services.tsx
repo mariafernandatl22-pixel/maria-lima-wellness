@@ -31,7 +31,7 @@ const services = [
     title: "Plano Trimestral Performance",
     description: "Programa de 3 meses para transformação sustentável e resultados duradouros.",
     benefits: [
-      "3 consultas no total a cada mês",
+      "Uma consulta por mês, durante 3 meses",
       "Bioimpedância e avaliação antropométrica",
       "Planejamento alimentar individual",
       "Escolha de 2 ebooks",
