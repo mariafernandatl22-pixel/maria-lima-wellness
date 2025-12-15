@@ -1,10 +1,10 @@
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Check, Sparkles, Zap, Trophy, Activity } from "lucide-react";
+import { Check, FileText, Zap, Dumbbell, Ruler } from "lucide-react";
 
 const services = [
   {
-    icon: Sparkles,
+    icon: FileText,
     title: "Consulta Avulsa",
     description: "Atendimento individualizado para quem busca orientação nutricional pontual.",
     benefits: [
@@ -27,11 +27,11 @@ const services = [
     ],
   },
   {
-    icon: Trophy,
+    icon: Dumbbell,
     title: "Plano Trimestral Performance",
     description: "Programa de 3 meses para transformação sustentável e resultados duradouros.",
     benefits: [
-      "3 consultas trimestrais",
+      "3 consultas no total a cada mês",
       "Bioimpedância e avaliação antropométrica",
       "Planejamento alimentar individual",
       "Escolha de 2 ebooks",
@@ -39,7 +39,7 @@ const services = [
     ],
   },
   {
-    icon: Activity,
+    icon: Ruler,
     title: "Avaliação Corporal",
     description: "Avaliação completa da composição corporal com tecnologia e precisão.",
     benefits: [
