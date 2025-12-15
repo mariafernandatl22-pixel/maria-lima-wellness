@@ -43,7 +43,7 @@ const ebooks = [
 
 const Ebooks = () => {
   return (
-    <section className="py-24 bg-pistachio-light">
+    <section id="ebooks" className="py-24 bg-pistachio-light">
       <div className="container mx-auto px-6">
         <div className="max-w-7xl mx-auto">
           {/* Header */}
