@@ -3,23 +3,23 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Ana Paula S.",
-    text: "A Maria me ajudou a emagrecer 12kg sem passar fome. O atendimento é incrível, ela realmente se importa com a gente!",
+    name: "J.C.S.P",
+    text: "O que me deixa mais satisfeita é que o processo foi tão prazeroso que virou hábito. Hoje eu não fico bitolada com dieta e muito menos balança, porque as escolhas são totalmente diferentes e a qualidade de vida também. 🥰",
     rating: 5,
   },
   {
-    name: "Carlos M.",
-    text: "Melhorei muito minha performance na corrida. O plano é personalizado e ela sempre ajusta conforme minha evolução.",
+    name: "R.T.M",
+    text: "Minhas cólicas melhoraram demais, tinha dias que eu dormia apertando a barriga pra ver se melhorava! Desses dias com a alimentação organizada nem me lembro qd deu dor abdominal… fora a organização! E a calça que eu usei ontem ficou bem mais confortável! ❤️ Estou amando 🙏🏻",
     rating: 5,
   },
   {
-    name: "Juliana R.",
-    text: "Finalmente entendi como me alimentar de forma saudável sem neuras. As orientações são claras e práticas.",
+    name: "F.E.A.F",
+    text: "Os atendimentos são perfeitos, me dá total atenção em todos os aspectos na consulta, super flexível nas dietas, entende o que eu gosto e encaixa a dieta conforme e ainda é super educada!!!",
     rating: 5,
   },
   {
-    name: "Roberto F.",
-    text: "Profissional extremamente atenciosa. Consegui ganhar massa muscular e ainda perder gordura. Recomendo muito!",
+    name: "R.R.S.C",
+    text: "Ao longo de um ano, tive uma experiência incrível, com orientação personalizada e estratégias que realmente funcionaram para o meu corpo. Em menos de um mês já eliminei 2 kg e, depois de ficar estagnado, consegui ganhar massa magra e manter resultados consistentes. Acompanhamento de qualidade e experiência única, vale a pena demais!",
     rating: 5,
   },
 ];
