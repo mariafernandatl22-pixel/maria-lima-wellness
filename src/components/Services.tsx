@@ -104,6 +104,7 @@ const Services = () => {
                     {/* CTA */}
                     <Button 
                       className="w-full bg-eucalyptus hover:bg-eucalyptus-dark text-foreground font-semibold rounded-full transition-all hover:scale-105"
+                      onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
                     >
                       Quero este plano
                     </Button>

@@ -86,6 +86,7 @@ const Ebooks = () => {
                   <Button 
                     size="sm"
                     className="w-full bg-eucalyptus hover:bg-eucalyptus-dark text-foreground font-semibold rounded-full transition-all"
+                    onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
                   >
                     <ShoppingCart className="w-4 h-4 mr-2" />
                     Compre aqui
