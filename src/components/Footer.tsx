@@ -20,22 +20,17 @@ const Footer = () => {
               <h4 className="font-semibold text-foreground mb-4">Links Rápidos</h4>
               <ul className="space-y-2 text-sm">
                 <li>
-                  <a href="#home" className="text-muted-foreground hover:text-foreground transition-colors">
+                  <a href="#hero" className="text-muted-foreground hover:text-foreground transition-colors">
                     Home
                   </a>
                 </li>
                 <li>
-                  <a href="#servicos" className="text-muted-foreground hover:text-foreground transition-colors">
+                  <a href="#services" className="text-muted-foreground hover:text-foreground transition-colors">
                     Serviços
                   </a>
                 </li>
                 <li>
-                  <a href="#ebooks" className="text-muted-foreground hover:text-foreground transition-colors">
-                    Ebooks
-                  </a>
-                </li>
-                <li>
-                  <a href="#contato" className="text-muted-foreground hover:text-foreground transition-colors">
+                  <a href="#contact" className="text-muted-foreground hover:text-foreground transition-colors">
                     Contato
                   </a>
                 </li>
@@ -47,7 +42,9 @@ const Footer = () => {
               <h4 className="font-semibold text-foreground mb-4">Redes Sociais</h4>
               <div className="flex gap-4">
                 <a 
-                  href="#" 
+                  href="https://www.instagram.com/nutri_mariafernandalima/" 
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-eucalyptus-dark flex items-center justify-center hover:scale-110 transition-transform"
                   aria-label="Instagram"
                 >
